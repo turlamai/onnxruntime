@@ -7,7 +7,7 @@
 (define deps '("base" "rackunit-lib"))
 (define build-deps '("scribble-lib" "racket-doc" "rackunit-lib"))
 (define pkg-desc "FFI bindings to the ONNX Runtime C API for CPU inference of ONNX models")
-(define pkg-authors '("turinglambdaai"))
+(define pkg-authors '("turlamai"))
 (define license 'MIT)
 ;; The catalog build farm runs `raco test --package`, executing every module
 ;; in the package as a test.  The modules that load the ONNX Runtime native
