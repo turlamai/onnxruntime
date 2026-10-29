@@ -2,7 +2,7 @@
 
 [English](README.md) · **中文**
 
-[![CI](https://github.com/turinglambdaai/onnxruntime/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/onnxruntime/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/turlamai/onnxruntime/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/onnxruntime/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 [ONNX Runtime](https://onnxruntime.ai/) C API 的 Racket FFI 绑定，用于
 ONNX 模型的 CPU 推理——*在 Python 中训练一次，导出 `.onnx`，随处推理*
